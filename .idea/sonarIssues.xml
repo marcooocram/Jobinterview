@@ -1,0 +1,789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Arrays.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/EmptyClass.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Exceptions.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Human.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/PalindromFinder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/RegexParser.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/Singleton.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SingletonExecuter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/SwitchCase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/TrueFalse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../api-gateway LAPI/listing-api.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../html-sanitizer-service/src/main/resources/application-live.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-core/src/main/java/com/stepstone/jobfeed/core/commands/SetHTMLContentFromStandard.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-core/src/main/java/de/stepstone/jobfeed/objects/ListingAction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-soap/src/main/java/de/stepstone/jobfeed/post/JobfeedServlet.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-soap/src/main/resources/live/etc/users.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/common/commands/LiquidDesignSelectorPNET.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/common/processor/BroadbeanLDADProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/common/processor/LdadStandardProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/at/pwc/processor/PwcScrapingProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/bertelsmannpush/processor/SapLdBertelsmannProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/gagfah/processor/GagfahXmlProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/haysbb/modules/HaysExtendRefnr.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/haysbb/processor/HaysBBProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/interhyp/processor/InterhypJSONProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/koenigsteinerpush/processor/KoenigsteinerPushXMLProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/operationalservices/processor/OperationalServicesXMLProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/raven51/commands/Raven51SetHtml.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/raven51/modules/Raven51SetHtml.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/raven51/processor/Raven51JsonProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/roche/commands/AddCustomizedTemplate.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/swatchequest/processor/SwatchEquestXMLProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/de/tectrion/processor/TectrionXMLProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/fr/prevoirpull/processor/PrevoirPullProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/pl/atos/processor/AtosScrapingProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/pl/axelspringer/processor/AxelSpringerXmlProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/pl/predica/processor/PredicaProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-core/src/main/java/com/stepstone/jobfeed/customers/ycg/stepstone/processor/StepstoneXMLProcessor.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/at/at-axians_ld.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-aptiv_bb.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-astra_zeneca.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-biomerieux.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-commerzbank_push.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-hays_bb.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-raven51.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/de/de-tectrion.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/fr/fr-sofitex_beetween.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/pl/pl-aliorbank.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/ycg/ycg-stepstone.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/za/za-goldeneagle_ld.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/za/za-placementpartner_ld.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/za/za-recruit360_ld.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/feeds/za/za-scubed_ld.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-live/src/main/resources/mappings/Internship/CU.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/jobfeed-stepstone-local/src/main/resources/feeds/de/de-tectrion.feed.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/src/main/assembly/bin/crontabjobschedulers/at/at_feeds_1.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../jobfeed-stepstone/src/main/assembly/bin/crontabjobschedulers/de/de_smallfeedsscheduler_run_hourly_from_de-se_de-v.sh">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/Connect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/HTML.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/IO/retrieveContent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/main/application/Main.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/main/parser/HTML.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../learnandstuff/src/main/reader/Connect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/java/com/stepstone/liquiddesignservice/core/process/OfferContentSaver.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/java/com/stepstone/liquiddesignservice/core/process/validator/ContentTypeValidator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/java/com/stepstone/liquiddesignservice/dao/OfferContentRepositoryDAO.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/resources/application-live.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/resources/application-staging.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../liquid-design-service/src/main/resources/application-uat.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/api/controllers/ListingController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/model/listing/ContactPerson.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/model/listing/ListingContentDetails.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/model/listing/ListingSection.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/process/offline/OfflineListingHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/repository/CategorisationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/repository/ListingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/services/BackOfficeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/services/ListingServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/services/ListingsActionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/core/services/OnlineActionService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/integration/BorsBackOfficeService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/integration/BorsCreditStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/integration/CreditSelectionContainerFactory.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/integration/CreditStore.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/repository/SQLCategorisationRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/repository/SQLListingRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/runtime/acl/ListingResponseStatus.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/runtime/acl/ListingsStatusResponseHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/saveforlater/converter/ListingContentDetailsConverter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/saveforlater/repository/impl/ListingContentDetailsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/saveforlater/services/StandardListingFieldsValidatorService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/java/com/stepstone/listingapi/saveforlater/services/impl/ListingSaveForLaterServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/resources/application-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/resources/application-live.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/resources/application-staging.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/main/resources/application-uat.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/test/java/com/stepstone/listingapi/core/model/validation/StandardListingFieldsValidatorServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/test/java/com/stepstone/listingapi/integration/BorsCreditStoreTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/test/java/com/stepstone/listingapi/repository/SQLListingRepositoryTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/test/java/com/stepstone/listingapi/saveforlater/converter/ListingContentDetailsConverterTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-core/src/test/java/com/stepstone/listingapi/saveforlater/repository/ListingContentDetailsServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-entities/src/main/java/com/stepstone/listingapi/repository/mapper/OfferMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-entities/src/main/resources/com/stepstone/listingapi/repository/mapper/AddressMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-entities/src/main/resources/com/stepstone/listingapi/repository/mapper/OfferMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-entities/src/main/resources/mybatis-config.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/java/com/stepstone/listingapi/TestBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/java/com/stepstone/listingapi/api/controllers/ListingsActionsControllerOnlineTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/java/com/stepstone/listingapi/api/controllers/ListingsActionsControllerRenewTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/java/com/stepstone/listingapi/api/controllers/SaveForLaterControllerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/ListingsActionsControllerOnlineTest.putAllListingsOnline.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/ListingsActionsControllerRenewTest.shouldRenewListingWithCurrentRegisterAndCurrentUser-result.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/SaveForLaterController.listingWithWidgets.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/SaveForLaterController.onlineListing.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/SaveForLaterController.onlineListingAfterUpdate.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/SaveForLaterController.saveIncompleteListingWithAddress-result.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../listing-api/listing-api-rest-integration-tests/src/test/resources/com/stepstone/listingapi/api/controllers/SaveForLaterController.updateExistingWidgetsForIncompleteListing-result.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/.idea/sonarIssues.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/SpeechEvaluation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/application/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/application/SpeechEvaluation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/configuration/LoggingAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/configuration/ServiceLoggingAspect.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/configuration/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/controllers/SpeechEvaluation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/exceptions/CSVParsingException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/hello/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/hello/HelloController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/model/Evaluation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/model/Politician.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/model/Speech.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/service/SpeechService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/service/SpeechServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/CSVService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/CSVServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/EvaluationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/EvaluationServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/SpeechService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/java/services/SpeechServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/resources/application-test.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/main/resources/application.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/java/controllers/SpeechEvaluationTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/java/services/CSVServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/java/services/EvaluationServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/java/services/SpeechServiceImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/resources/additionalpolitics.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../politicalspeeches/src/test/resources/falseinput.csv">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
